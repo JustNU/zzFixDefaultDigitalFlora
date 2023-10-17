@@ -1,3 +1,9 @@
 {
-	"Change_6B13": true
+	"Vanilla": {
+		"Change 6B13": true,
+		"Change 6B23-1": true
+	},
+	"AdditionalGear - Vanilla Extended": {
+		"Change 6B23-2": true
+	}
 }
