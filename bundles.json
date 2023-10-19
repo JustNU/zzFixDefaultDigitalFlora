@@ -26,6 +26,38 @@
 				"cubemaps",
 				"assets/content/items/equipment/armor_6b23/item_equipment_armor_6b23_gloss_nrm"
 			]
+        },
+		{
+            "key": "FixDefaultDigitalFlora/ArmoredVests/6B43_assault.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "FixDefaultDigitalFlora/ArmoredVests/6b43_full.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "FixDefaultDigitalFlora/ArmoredVests/6B43_light.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
+        },
+		{
+            "key": "FixDefaultDigitalFlora/ArmoredVests/6B43_mobility.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"shaders",
+				"cubemaps"
+			]
         }
     ]
 }

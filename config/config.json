@@ -1,9 +1,13 @@
 {
 	"Vanilla": {
 		"Change 6B13": true,
-		"Change 6B23-1": true
+		"Change 6B23-1": true,
+		"Change 6B43 Full": true
 	},
 	"AdditionalGear - Vanilla Extended": {
-		"Change 6B23-2": true
+		"Change 6B23-2": true,
+		"Change 6B43 Assault": true,
+		"Change 6B43 Mobility": true,
+		"Change 6B43 Light": true
 	}
 }
